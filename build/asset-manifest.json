@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Demo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Demo/static/js/main.a8050b84.chunk.js",
+    "main.js.map": "/React-Demo/static/js/main.a8050b84.chunk.js.map",
+    "runtime-main.js": "/React-Demo/static/js/runtime-main.3347d9ee.js",
+    "runtime-main.js.map": "/React-Demo/static/js/runtime-main.3347d9ee.js.map",
+    "static/css/2.a6cd88c9.chunk.css": "/React-Demo/static/css/2.a6cd88c9.chunk.css",
+    "static/js/2.c17a6e70.chunk.js": "/React-Demo/static/js/2.c17a6e70.chunk.js",
+    "static/js/2.c17a6e70.chunk.js.map": "/React-Demo/static/js/2.c17a6e70.chunk.js.map",
+    "index.html": "/React-Demo/index.html",
+    "precache-manifest.7af1701a0f163deaa7beba615bec135b.js": "/React-Demo/precache-manifest.7af1701a0f163deaa7beba615bec135b.js",
+    "service-worker.js": "/React-Demo/service-worker.js",
+    "static/css/2.a6cd88c9.chunk.css.map": "/React-Demo/static/css/2.a6cd88c9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Demo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c17a6e70.chunk.js.LICENSE.txt": "/React-Demo/static/js/2.c17a6e70.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/React-Demo/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3347d9ee.js",
+    "static/css/2.a6cd88c9.chunk.css",
+    "static/js/2.c17a6e70.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a8050b84.chunk.js"
+  ]
+}
